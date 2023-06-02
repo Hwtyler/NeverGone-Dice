@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net7.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NevergoneDice
+build_property.ProjectDir = C:\Users\Tyler\source\repos\NevergoneDice\NevergoneDice\
+
+[C:/Users/Tyler/source/repos/NevergoneDice/NevergoneDice/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NevergoneDice.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Tyler/source/repos/NevergoneDice/NevergoneDice/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NevergoneDice.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Tyler/source/repos/NevergoneDice/NevergoneDice/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NevergoneDice.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Tyler/source/repos/NevergoneDice/NevergoneDice/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NevergoneDice.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Tyler/source/repos/NevergoneDice/NevergoneDice/Views/AboutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NevergoneDice.Views.AboutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AboutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AboutPage.xaml
+
+[C:/Users/Tyler/source/repos/NevergoneDice/NevergoneDice/Views/AllNotes.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NevergoneDice.Views.AllNotes.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AllNotes.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AllNotes.xaml
+
+[C:/Users/Tyler/source/repos/NevergoneDice/NevergoneDice/Views/DiceBox.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NevergoneDice.Views.DiceBox.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\DiceBox.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\DiceBox.xaml
+
+[C:/Users/Tyler/source/repos/NevergoneDice/NevergoneDice/Views/SessionsNotes.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NevergoneDice.Views.SessionsNotes.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SessionsNotes.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SessionsNotes.xaml

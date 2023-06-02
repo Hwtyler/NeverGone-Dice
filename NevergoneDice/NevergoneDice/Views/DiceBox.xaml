@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NevergoneDice.Views.DiceBox"
+             Title="Nevergone Dice">
+    <VerticalStackLayout Spacing="10" Margin="10">
+        <HorizontalStackLayout Spacing="10">
+        <Label 
+            Text="Click to Roll"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        </HorizontalStackLayout>
+
+        <StackLayout>
+            <Button x:Name="btnRollD20" Text="D20" Clicked="Roll20"/>
+            <Label x:Name="lblD20" Text="Dice roll result will appear here." HorizontalOptions="CenterAndExpand" Padding="10"/>
+
+            <Button x:Name="btnRollD12" Text="D12" Clicked="Roll12"/>
+            <Label x:Name="lblD12" Text="Dice roll result will appear here." HorizontalOptions="CenterAndExpand" Padding="10"/>
+
+            <Button x:Name="btnRollD10" Text="D10" Clicked="Roll10"/>
+            <Label x:Name="lblD10" Text="Dice roll result will appear here." HorizontalOptions="CenterAndExpand" Padding="10"/>
+
+            <Button x:Name="btnRollD8" Text="D8" Clicked="Roll8"/>
+            <Label x:Name="lblD8" Text="Dice roll result will appear here." HorizontalOptions="CenterAndExpand" Padding="10"/>
+
+            <Button x:Name="btnRollD6" Text="D6" Clicked="Roll6"/>
+            <Label x:Name="lblD6" Text="Dice roll result will appear here." HorizontalOptions="CenterAndExpand" Padding="10"/>
+
+            <Button x:Name="btnRollD4" Text="D4" Clicked="Roll4"/>
+            <Label x:Name="lblD4" Text="Dice roll result will appear here." HorizontalOptions="CenterAndExpand" Padding="10"/>
+
+            <Button x:Name="btnRollD100" Text="D100" Clicked="Roll100"/>
+            <Label x:Name="lblD100" Text="Dice roll result will appear here." HorizontalOptions="CenterAndExpand" Padding="10"/>
+        </StackLayout>
+
+
+    </VerticalStackLayout>
+</ContentPage>
